@@ -9,5 +9,5 @@ Snake game coded in C++
     'w' symbolises UP;
     's' symbolises DOWN;
     The aim is to eat the fruit symbolised by 'F' and increase the score and  the length of the snake , but as soon as the snake encounters itself,  GAMEOVER! Moreover the score is displayed at the bottom and is increased by +10 for every fruit 'F' eaten.
-   3. Learning=
+3. Learning=
       As stated above , this was my first hands-on coding project which tested my knowledge of rudimentary principles in C++. also ,this     project truly helped me understand coding at a deeper level by learning new syntax for example groto , enum , COORD etc. 
